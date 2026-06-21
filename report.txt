@@ -1,0 +1,12 @@
+PHISHING URL DETECTOR REPORT
+===========================
+URL: http://192.168.1.5/login/verify/account
+Risk Level: HIGH
+Risk Score: 8
+
+Reasons:
+- URL is not using HTTPS
+- IP address found instead of domain
+- Suspicious keyword detected: login
+- Suspicious keyword detected: verify
+- Suspicious keyword detected: account
